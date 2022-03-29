@@ -103,7 +103,6 @@ This program able to:
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -121,8 +120,14 @@ Instructions below are provided for Windows 10/8.1/8/7 32-bit/64-bit. Hardware r
 
 ## Usage
 
-1. Open OpenHardwareMonitor and let it run in the background
-2. Edit `src/main/resources/tenantCustomer.txt` according to the format shown below:
+1. Start thingsboard service
+
+```
+net start thingsboard
+```
+
+2. Open OpenHardwareMonitor and let it run in the background
+3. Edit `src/main/resources/tenantCustomer.txt` according to the format shown below:
 
 ```
 <user1>,<device1>
@@ -145,7 +150,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@mu4m3](https://twitter.com/mu4m3) - m.amiruddin27@gmail.com
+Muhammad Amiruddin bin Bustaman - [@mu4m3](https://twitter.com/mu4m3) - m.amiruddin27@gmail.com
 
 Project Link: [https://github.com/muame-amr/Thingsboard-REST](https://github.com/muame-amr/Thingsboard-REST)
 
