@@ -89,15 +89,11 @@ This program able to:
   - Memory usage
   - Temperature
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 - [Java](https://www.java.com/en/)
 - [Maven](https://maven.apache.org//)
 - [Thingsboard](https://thingsboard.io/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -113,8 +109,6 @@ Instructions below are provided for Windows 10/8.1/8/7 32-bit/64-bit. Hardware r
 
 1. Follow installation instructions [here](https://thingsboard.io/docs/user-guide/install/windows/)
 2. Install [Open Hardware Monitor](https://openhardwaremonitor.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -136,15 +130,11 @@ net start thingsboard
 
 3. Run `src/main/java/rest/post/ResourceMonitor.java`
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -153,8 +143,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Muhammad Amiruddin bin Bustaman - [@mu4m3](https://twitter.com/mu4m3) - m.amiruddin27@gmail.com
 
 Project Link: [https://github.com/muame-amr/Thingsboard-REST](https://github.com/muame-amr/Thingsboard-REST)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
